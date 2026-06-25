@@ -1,8 +1,1 @@
  # Job-Analyzer  
- 
- 
-  
-  
-
-
- 
